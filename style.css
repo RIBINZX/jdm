@@ -1,0 +1,26 @@
+h1{
+    color: rgb(28, 240, 21);
+    font-style: oblique;
+    font-size: 2cm;
+}
+u{
+    color: blue;
+}
+a{
+    margin-left: 100px;
+    margin-top: 100px;
+    outline: 3px double;
+}
+body{
+    background-image: url(img/abstract-banner-design-template-black-glossy-with-gold-line-and-lighting-effect-on-dark-background-and-texture-vector.jpg);
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+
+
+
+}
+div{
+    margin-top: 200px;
+    margin-left: 250px;
+}

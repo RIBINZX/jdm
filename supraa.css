@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    font-size: 1.5cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+u{
+    color: chartreuse;
+}
+img{
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 100px;
+    outline: double 2px ;
+}
+iframe{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#supra{
+    margin-left: 250px;
+}

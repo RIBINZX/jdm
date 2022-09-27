@@ -1,0 +1,23 @@
+h1{
+    color: black;
+    font-size: 1.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+u{
+    color: blue;
+
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-top: 99px;
+    margin-left: 90px;
+    outline: 2px double;
+}
+iframe{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#r34{
+   margin-left: 250px; 
+}
